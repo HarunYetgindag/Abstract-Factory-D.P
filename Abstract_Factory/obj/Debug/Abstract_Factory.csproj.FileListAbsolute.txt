@@ -1,0 +1,6 @@
+C:\Users\Harun\Desktop\C# Examples\Abstract_Factory\Abstract_Factory\bin\Debug\Abstract_Factory.exe.config
+C:\Users\Harun\Desktop\C# Examples\Abstract_Factory\Abstract_Factory\bin\Debug\Abstract_Factory.exe
+C:\Users\Harun\Desktop\C# Examples\Abstract_Factory\Abstract_Factory\bin\Debug\Abstract_Factory.pdb
+C:\Users\Harun\Desktop\C# Examples\Abstract_Factory\Abstract_Factory\obj\Debug\Abstract_Factory.csprojResolveAssemblyReference.cache
+C:\Users\Harun\Desktop\C# Examples\Abstract_Factory\Abstract_Factory\obj\Debug\Abstract_Factory.exe
+C:\Users\Harun\Desktop\C# Examples\Abstract_Factory\Abstract_Factory\obj\Debug\Abstract_Factory.pdb
