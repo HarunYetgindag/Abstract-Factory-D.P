@@ -6,4 +6,4 @@ Abstract Factory Design Pattern ilişkisel olan birden fazla nesnenin üretimini
 
 Class Diagram : 
 
-![ekran alintisi](https://user-images.githubusercontent.com/37370113/39402562-1bbc297c-4b6b-11e8-98cc-8ce9bbb1e2ab.JPG)
+![Abstract Factory Design Pattern](https://user-images.githubusercontent.com/37370113/39402562-1bbc297c-4b6b-11e8-98cc-8ce9bbb1e2ab.JPG)
